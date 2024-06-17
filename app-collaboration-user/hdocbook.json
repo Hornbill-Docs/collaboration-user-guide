@@ -2,9 +2,9 @@
   "docId": "app-collaboration-user",
   "title": "Collaboration User Guide",
   "description": "Using Collaboration in Hornbill",
-  "publicSource": "--publicSource--",
-  "productFamily": "docs",
-  "version": "0.0.1",
+  "publicSource": "https://github.com/Hornbill-Docs/app-collaboration-user.git",
+  "productFamily": "com.hornbill.collaboration",
+  "version": "0.0.2",
   "audience": [
     "public"
   ],
