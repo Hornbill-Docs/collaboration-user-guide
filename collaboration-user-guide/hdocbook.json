@@ -1,10 +1,10 @@
 {
-  "docId": "app-collaboration-user",
+  "docId": "collaboration-user-guide",
   "title": "Collaboration User Guide",
   "description": "Using Collaboration in Hornbill",
-  "publicSource": "https://github.com/Hornbill-Docs/app-collaboration-user.git",
+  "publicSource": "https://github.com/Hornbill-Docs/collaboration-user-guide.git",
   "productFamily": "com.hornbill.collaboration",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "audience": [
     "public"
   ],
@@ -19,7 +19,7 @@
         "items": [
           {
             "text": "About Collaboration",
-            "link": "app-collaboration-user/about-collaboration"
+            "link": "collaboration-user-guide/about-collaboration"
           }
         ]
       }

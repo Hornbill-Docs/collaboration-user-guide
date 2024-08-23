@@ -7,7 +7,7 @@ layout: article-toc
 Hornbill's collaboration capabilities are designed to foster effective communication and teamwork within organizations. These features facilitate seamless collaboration between team members, departments, and sometimes external stakeholders. 
 
 
-![Workflow](/_books/app-collaboration-user/images/collab.png)
+![Workflow](/_books/collaboration-user-guide/images/collab.png)
 
 
 Some of the key collaboration capabilities provided by Hornbill include:
@@ -37,7 +37,7 @@ Hornbill's collaboration capabilities are designed to empower organizations to w
 
 The concept of targeted communication within the Hornbill Platform, as described, refers to a specialized feature designed to enhance interaction and focus within applications and collaboration workspaces between people.  Here's an expanded explanation of how this works and its significance in Hornbill:
 
-![Trageted Comms](/_books/app-collaboration-user/images/mentions.png)
+![Trageted Comms](/_books/collaboration-user-guide/images/mentions.png)
 
 
 __Collaborative TimeLines:__ 
