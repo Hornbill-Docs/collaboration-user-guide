@@ -4,7 +4,7 @@
   "description": "Using Collaboration in Hornbill",
   "publicSource": "https://github.com/Hornbill-Docs/app-collaboration-user.git",
   "productFamily": "com.hornbill.collaboration",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "audience": [
     "public"
   ],
@@ -18,8 +18,8 @@
         "expand": true,
         "items": [
           {
-            "text": "Welcome",
-            "link": "app-collaboration-user/index"
+            "text": "About Collaboration",
+            "link": "app-collaboration-user/about-collaboration"
           }
         ]
       }
