@@ -24,3 +24,5 @@ If you want to create a new workspace to provide an area to discuss a topic or a
 When viewing the list of public workspaces, a Join option is available on each listed Workspace. Clicking this button will add you as a member and provide an entry in the workspace, letting others know that you have joined.
 
 You may also want to have a browse of the Workspace before joining. Clicking on the Workspace Name will open that workspace where you can see and read some of the posts to get an idea of what the workspace is all about. Here too has an option to Join. In addition to this, a Silently option for joining is available which will prevent a post from being added to the workspaces announcing your new membership.
+
+<!-- https://wiki.hornbill.com/index.php?title=Workspaces >
