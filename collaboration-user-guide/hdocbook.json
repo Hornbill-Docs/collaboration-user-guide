@@ -4,7 +4,7 @@
   "description": "Using Collaboration in Hornbill",
   "publicSource": "https://github.com/Hornbill-Docs/collaboration-user-guide.git",
   "productFamily": "com.hornbill.collaboration",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "audience": [
     "public"
   ],
@@ -25,11 +25,11 @@
       },
       {
         "text": "My Personal Feed",
-        "link":"collaboration-user-guide/my-personal-feed"
+        "link": "collaboration-user-guide/my-personal-feed"
       },
       {
         "text": "Workspaces",
-        "items":[
+        "items": [
           {
             "text": "Workspaces",
             "link": "collaboration-user-guide/workspaces/workspaces"

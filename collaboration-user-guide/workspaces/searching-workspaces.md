@@ -1,39 +1,45 @@
-# Searching Workspaces
-The Global Search Bar can be used to search for information held within all of the workspaces that you have access to. Advanced options are also available to select from in order to refine your searches. To perform a search on your workspaces, on the Global Search bar select Workspaces from the search options.
+# Searching workspaces
+You can use the Global Search bar to search for information held within all of the workspaces to which you have access. On the Global Search bar, select Workspaces from the search options. Advanced search options are available. You can also refine your search by clicking the down arrow to the left of the search icon and choosing filters.
 
 ![Search](/_books/collaboration-user-guide/images/advanced-search.png)
 
-## Standard Search
-A standard search can be performed by entering one or more words directly into the Global Search bar.
+## Topics covered
+- [Standard search](/collaboration-user-guide/workspaces/searching-workspaces#standard-search)
+- [Filtered search](/collaboration-user-guide/workspaces/searching-workspaces#filtered-search)
+- [Advanced search](/collaboration-user-guide/workspaces/searching-workspaces#advanced-search)
 
-* Posts and comments will be found that contain one or more of the provided words
-* Words with 2 or less characters are not included in the search
-* Common words such as and or are are not included in the search
-* Just the content of the posts and comments are searched
+## Standard search
+Perform a standard search by entering one or more words directly into the Global Search bar.
 
-## Filtered Search
-When searching workspaces on the Global Search Bar you can select the small arrow within the search bar to expose options to filter your search on. These include:
+* Results will include posts and comments that contain one or more of the provided words.
+* Words with two or fewer characters are not included in the search.
+* Common words such as *and* or *are* are not included in the search.
+* Only the content of the posts and comments is searched.
 
-* Date
-* Posted by
-* Workspace
+## Filtered search
+When searching workspaces in the Global Search bar, click the down arrow to the left of the search icon to expose options on which to filter your search. These include:
 
-## Advanced Search
-There are a selection of operators and syntaxes available to perform advanced searches from the Global Search Bar. Some that are commonly used include:
+* date
+* who the post was posted by
+* type (post or comment)
+* workspace
 
-### Boolean Operators: AND (+), OR, NOT (-).
-* Must be in ALL CAPS
-* OR is the default
-* AND matches posts and comments that contain both words
-* NOT excludes posts and comments that contain that word
+## Advanced search
+There is a selection of operators and syntaxes available to perform advanced searches from the Global Search bar. Some that are commonly used include:
 
-### Wildcard Searches: *, ?
-* An * is used for a multiple character wildcard search
-* A ? is used for a single character wildcard search
-* Wildcards cannot be used at the beginning of a search term
+### Boolean operators: AND (+), OR, NOT (-).
+* You must use ALL CAPS.
+* OR is the default.
+* AND matches posts and comments that contain both words.
+* NOT excludes posts and comments that contain that word.
 
-### Field Searches using fieldname:text
-* The name of a person that made the post or comment by using actorName:
-* The ID of the person that made the post or comment by using actorId:
-* The title of the post by using title:
-* The content of a post or comment by using content:
+### Wildcard searches: *, ?
+* Use an asterisk (*) for a multiple-character wildcard search.
+* Use a question mark (?) for a single-character wildcard search.
+* Wildcards cannot be used at the beginning of a search term.
+
+### Fieldname searches using fieldname:text
+* Use `actorName:` to filter on the name of a person that made the post or comment. 
+* Use `actorId:` to filter on the ID of the person that made the post or comment.
+* Use `title:` to filter on the title of the post.
+* Use `content:` to filter on a post or comment.
