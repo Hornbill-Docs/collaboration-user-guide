@@ -1,6 +1,8 @@
 # Searching Workspaces
 The Global Search Bar can be used to search for information held within all of the workspaces that you have access to. Advanced options are also available to select from in order to refine your searches. To perform a search on your workspaces, on the Global Search bar select Workspaces from the search options.
 
+![Search](/_books/collaboration-user-guide/images/advanced-search.png)
+
 ## Standard Search
 A standard search can be performed by entering one or more words directly into the Global Search bar.
 
