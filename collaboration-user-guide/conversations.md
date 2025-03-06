@@ -41,7 +41,7 @@ As with other collaboration features, conversations are available on the native 
 ## Notifications
 You will receive notifications when there is an update to any conversations you are a member of, you can receive these notifications in the following places:
 
-* *n the menu bar on the user app, indicated by the Home icon appearing and having an orange number indicator. Click on the conversation link to be taken to the conversation
+* In the menu bar on the user app, indicated by the Home icon appearing and having an orange number indicator. Click on the conversation link to be taken to the conversation
 * On the collapsible conversation side bar, the tab will turn orange, hovering over this will show a numerical indication of the conversation updates and viewing the side bar will show which conversations the updates were added to
 * On the mobile via banners and badges (if enabled), and from the menu bar whilst in the mobile app
 
