@@ -1,5 +1,5 @@
 # Managing Workspaces
-As the owner of a workspace you can configure it's attributes and manage it's members.
+As the owner of a workspace you can configure its attributes and manage its members.
 
 ## Managing Workspaces as an owner
 The Configure Link will be visible only to the owner of the workspace.
@@ -19,5 +19,5 @@ Configure the attributes of your workspace including Billboard notices, and reas
 As the owner of a workspace you can add users to the workspace.
 
 * Use the Search option to find and add the users
-* **Add Silently**. By ticking the add silently button any new users added to the workspace will not be announced via a post to the workspace Buzz, and existing member will not receive a notification about the new member(s).
+* **Add Silently**. By ticking the add silently button any new users added to the workspace will not be announced via a post to the workspace Buzz, and existing members will not receive a notification about the new member(s).
 * **Add Everyone**. Choosing this option will add all users to the workspace, this is useful when you have company wide workspaces.

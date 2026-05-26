@@ -1,8 +1,8 @@
 # Workspaces
-A Workspace is a place where you can bring together a group of Users to collaborate around a common topic. Workspaces are made up of Posts and Comments on it's activity stream. You can set up a workspace about any relevant theme that you want to share with others in your organization. Add images, videos, links, ask questions, or just write a comment. It is a great place to keep informed and up to date.
+A Workspace is a place where you can bring together a group of Users to collaborate around a common topic. Workspaces are made up of Posts and Comments on its activity stream. You can set up a workspace about any relevant theme that you want to share with others in your organization. Add images, videos, links, ask questions, or just write a comment. It is a great place to keep informed and up to date.
 
 ## Workspace Lists
-The Workspaces page allows you to view the available workspaces, add new workspaces, and manage the workspaces that you own. The Workspaces page is accessed from the Home Menu and selecting the option Workspaces
+The Workspaces page allows you to view the available workspaces, add new workspaces, and manage the workspaces that you own. The Workspaces page is accessed from the Home Menu by selecting the option Workspaces
 
 * **My Workspaces**<br>Workspaces that you are a member of, including workspaces you own. This is the default list when you first come to the Workspaces.
 
@@ -23,15 +23,15 @@ If you want to create a new workspace to provide an area to discuss a topic or a
 ## Join a Workspace
 When viewing the list of public workspaces, a Join option is available on each listed Workspace. Clicking this button will add you as a member and provide an entry in the workspace, letting others know that you have joined.
 
-You may also want to have a browse of the Workspace before joining. Clicking on the Workspace Name will open that workspace where you can see and read some of the posts to get an idea of what the workspace is all about. Here too has an option to Join. In addition to this, a Silently option for joining is available which will prevent a post from being added to the workspaces announcing your new membership.
+You may also want to have a browse of the Workspace before joining. Clicking on the Workspace Name will open that workspace where you can see and read some of the posts to get an idea of what the workspace is all about. Here too has an option to Join. In addition to this, a Silently option for joining is available which will prevent a post from being added to the workspace announcing your new membership.
 
 ## Workspace Contribution
-Once you are a member of a workspace, either by joining yourself or by being added by a workspace owner you will be able to contribute to the workspace content. A workspace is another example of an activity stream and will provide it's members with the following functionality.
+Once you are a member of a workspace, either by joining yourself or by being added by a workspace owner you will be able to contribute to the workspace content. A workspace is another example of an activity stream and will provide its members with the following functionality.
 
 * **Post**. Review existing posts by other workspace members and submit posts of your own.
 * **Questions**. When adding a post, you can optionally choose to 'Ask a question', this will allow other members to provide answers to the question, and for the answers to be voted on, and if appropriate for you as the owner of the question, to flag one of the answers as the Posters choice which will pin that answer to the top of the submitted answers to your question.
 * **Comments**. Review comments on existing posts, and submit comments of your own.
-* **Like**. If you like a post or comment, tick the like button to show your positive reaction to it's content.
+* **Like**. If you like a post or comment, tick the like button to show your positive reaction to its content.
 
 Owners of workspaces can add Billboard Notices to the top of their workspaces, if they have news or information which they want to share with the workspace members. Billboard Notices can be configured by the owner under the Configure link.
 

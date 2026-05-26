@@ -16,9 +16,9 @@ Some of the key collaboration capabilities provided by Hornbill include:
 
 2. __Workspaces__: Workspaces are dedicated collaboration spaces where teams can share information, discuss ideas, manage tasks, and collaborate on documents. They offer a centralized location for all team-related communication and collaboration, making it easier for team members to stay connected and work together effectively.
 
-3. __Notifications__: The Hornbill platform is focused on work automation, and as such, one of its core capabilities is notifications, where both user and automated actions can notify you of actions and events that are relevant to you/need your attention.  Like any notification system, its possible to receive a lot of notifications so you are able to control the nature and level of notifications that you receive/are notified about in your user profile. 
+3. __Notifications__: The Hornbill platform is focused on work automation, and as such, one of its core capabilities is notifications, where both user and automated actions can notify you of actions and events that are relevant to you/need your attention.  Like any notification system, it's possible to receive a lot of notifications so you are able to control the nature and level of notifications that you receive/are notified about in your user profile. 
 
-4. __Targeted Communication__: Within the Hornbill Platform, applications and collaboration workspaces use collaborative TimeLines, which support targeted communications to allow specific individual targeting over and above the general notifications system.  Targeted notifications are presented to individual users independently of the main notifications system, these targeted communications are considered more important than any other type of notification because a targeted notification can only originate from another another person who specifically writes an `@mention` in a post or comment, targeting one or more users specific, elevated attention.
+4. __Targeted Communication__: Within the Hornbill Platform, applications and collaboration workspaces use collaborative TimeLines, which support targeted communications to allow specific individual targeting over and above the general notifications system.  Targeted notifications are presented to individual users independently of the main notifications system, these targeted communications are considered more important than any other type of notification because a targeted notification can only originate from another person who specifically writes an `@mention` in a post or comment, targeting one or more users' specific, elevated attention.
 
 5. __Conversations__: Built-in instant messaging allows users to have real-time conversations with colleagues, both one-on-one and in group chats. This feature promotes quick communication and collaboration, helping to resolve issues and answer questions more efficiently.
 
@@ -26,7 +26,7 @@ Some of the key collaboration capabilities provided by Hornbill include:
 
 7. __Document Collaboration__: Document collaboration allows users to create, share, and edit documents within the platform. Multiple users can work on a document simultaneously, with changes being tracked and saved in real-time. This feature promotes effective collaboration on documents while also maintaining version control.
 
-8. __Task Management__: Task management features allow users to create, assign, and track tasks, ensuring everyone is on the same page regarding their responsibilities and task deadlines. User can collaborate on tasks by providing updates and additonal information, or sharing files as required.
+8. __Task Management__: Task management features allow users to create, assign, and track tasks, ensuring everyone is on the same page regarding their responsibilities and task deadlines. Users can collaborate on tasks by providing updates and additional information, or sharing files as required.
 
 9. __Integrations__: Hornbill integrates with various third-party tools and applications, enabling users to collaborate and communicate using their preferred platforms. This seamless integration helps to streamline workflows and maintain a consistent user experience across different tools.
 
@@ -37,7 +37,7 @@ Hornbill's collaboration capabilities are designed to empower organizations to w
 
 The concept of targeted communication within the Hornbill Platform, as described, refers to a specialized feature designed to enhance interaction and focus within applications and collaboration workspaces between people.  Here's an expanded explanation of how this works and its significance in Hornbill:
 
-![Trageted Comms](/_books/collaboration-user-guide/images/mentions.png)
+![Targeted Comms](/_books/collaboration-user-guide/images/mentions.png)
 
 
 __Collaborative TimeLines:__ 

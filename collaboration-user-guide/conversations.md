@@ -14,7 +14,7 @@ Use the Start a Conversation button on the Conversations view, or from the + Ico
 * **Leave Conversation**<br>If you no longer wish to be part of the conversation, use this option to leave.
 * **Conversation Members**<br>The co-workers of the conversation are listed at the top of the conversation. 
     * Hover over their image to see their availability information, award, follow them or start another conversation with them
-    * Click on a co-workers name to view their profile
+    * Click on a co-worker's name to view their profile
 
 ## Content
 In the message box you can add text, cut and paste images, embed rich media (Share Videos etc), as well as utilize many out of the box integrations.

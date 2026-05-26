@@ -1,5 +1,5 @@
 # My Personal Feed
-Your personal feed is an activity stream where you can post and collaborate. Co-workers who follow you will receive notifications and see updates you make to your on their News Feed.
+Your personal feed is an activity stream where you can post and collaborate. Co-workers who follow you will receive notifications and see updates you make on their News Feed.
 
 ## Posting on your feed
 Add an initial comment to start a discussion, encourage collaboration or inform other users who have access to, or are following you.
